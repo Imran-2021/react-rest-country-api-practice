@@ -1,0 +1,8 @@
+.imran{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 300px);
+    justify-content: center;  
+    color: #444;
+    margin: 1%;
+    
+}
